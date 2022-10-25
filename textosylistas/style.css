@@ -7,3 +7,9 @@ span.negrita{
 span.schmol{
     font-size: smaller;
 }
+ul {
+    list-style-image: url("img/frok.png");
+}
+ol {
+    list-style-type: hebrew;
+}
