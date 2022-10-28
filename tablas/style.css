@@ -1,5 +1,5 @@
 table {
-  border: #bbe4e9 1px solid;
+  border: #5585b5 1px solid;
   background-color: white;
   border-collapse: collapse;
 }
@@ -7,6 +7,6 @@ td, th {
   border: #5585b5 2px solid;
 }
 caption{
-  color: #5585b5;
-  background-color: #bbe4e9;
+  color: #363636;
+  background-color: #5585b5;
 }
