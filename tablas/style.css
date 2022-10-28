@@ -1,6 +1,11 @@
 table {
-  border: #b2b2b2 1px solid;
+  border: #bbe4e9 1px solid;
+  background-color: white;
 }
 td, th {
-  border: black 1px solid;
+  border: #5585b5 1px solid;
+}
+caption{
+  color: #5585b5;
+  background-color: #bbe4e9;
 }
